@@ -6,9 +6,13 @@ https://github.com/IsmailMuhammed2019/c3-projectstarter
 
 Url02 to my s3 bucket app
 
+<<<<<<< HEAD
 http://udapeople-a2d6df3.s3-website-us-east-1.amazonaws.com/#/employees
 
 
 
 UrlO3 to my cloudfront address
 https://d1l1q2mjck00jb.cloudfront.net/#/employees
+=======
+http://udapeople-6c771a7.s3-website-us-east-1.amazonaws.com/#/employees
+>>>>>>> 68f73e049cd2d0397a9b3676aa7dfbf96109cb92
